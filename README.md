@@ -1,2 +1,1 @@
-# HAMemoirs
-Memoirs for Hafestran Rose Magazine.
+Readme to come soon.
